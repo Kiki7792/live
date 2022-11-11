@@ -26,6 +26,24 @@ module.exports = {
               { title: '自律的‘王道’人生观', path: '/one/preview/8' },
             ]
           },
+          { title: '第一章 让梦想成真',
+            path: '/one/chapter1',
+            children: [
+              { title: "实现追求的人生法则", path: '/one/chapter1/1' },
+              { title: '思考至关重要', path: '/one/chapter1/2' },
+              { title: '你具有超越现实的想象力和创造力吗？', path: '/one/chapter1/3' },
+              { title: '考虑周全的话，就一定能实现', path: '/one/chapter1/4' },
+              { title: '大病初愈后体悟到的人生真谛', path: '/one/chapter1/5' },
+              { title: '心态决定命运', path: '/one/chapter1/6' },
+              { title: '锲而不舍必定成功', path: '/one/chapter1/7' },
+              { title: '‘人类的力量真是无穷大啊！’', path: '/one/chapter1/8' },
+              { title: '努力是从平凡升华为非凡的必要阶梯', path: '/one/chapter1/9' },
+              { title: '‘人类的力量真是无穷大啊！’', path: '/one/chapter1/10' },
+              { title: '听见工作现场的‘神灵之声’了吗？', path: '/one/chapter1/11' },
+              { title: '牢记‘有意注意’的人生', path: '/one/chapter1/12' },
+              { title: '激情与梦想，实现精彩人生', path: '/one/chapter1/13' },
+            ]
+          },
         ]
       },
       // {
