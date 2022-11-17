@@ -44,6 +44,39 @@ module.exports = {
               { title: '激情与梦想，实现精彩人生', path: '/one/chapter1/13' },
             ]
           },
+          { title: '第二章 依原理原则思考',
+            path: '/one/chapter2',
+            children: [
+              { title: "简单就是做人和做事的最佳原则", path: '/one/chapter2/1' },
+              { title: '处事哲学拨开人生迷雾', path: '/one/chapter2/2' },
+              { title: '面对诱惑，不为所动，坚持自己的哲学', path: '/one/chapter2/3' },
+              { title: '贯彻落实才有意义', path: '/one/chapter2/4' },
+              { title: '思维决定人生的发展方向', path: '/one/chapter2/5' },
+              { title: '如何导演人生这台戏', path: '/one/chapter2/6' },
+              { title: '身体力行是最好的学习方法', path: '/one/chapter2/7' },
+              { title: '努力过好今天', path: '/one/chapter2/8' },
+              { title: '“热爱”是点燃“激情”的火把', path: '/one/chapter2/9' },
+              { title: '超越自我改变人生', path: '/one/chapter2/10' },
+              { title: '将复杂问题简单化', path: '/one/chapter2/11' },
+              { title: '国际问题、国家间摩擦单纯化', path: '/one/chapter2/12' },
+            ]
+          },
+          { title: '第三章 磨砺并提高心智',
+            path: '/one/chapter3',
+            children: [
+              { title: "日本人为什么丢失了“美丽的心灵”", path: '/one/chapter3/1' },
+              { title: '领导的“德”要高才“才”', path: '/one/chapter3/2' },
+              { title: '自省与人格磨砺', path: '/one/chapter3/3' },
+              { title: '磨砺心智所需要的“六个精进”', path: '/one/chapter3/4' },
+              { title: '将感恩之心铭刻于童心当中', path: '/one/chapter3/5' },
+              { title: '时刻准备好说“谢谢”', path: '/one/chapter3/6' },
+              { title: '当喜则喜，保持率真的心态', path: '/one/chapter3/7' },
+              { title: '如何清除魅惑人心的“三毒”', path: '/one/chapter3/8' },
+              { title: '劳动的喜悦是世上最大的喜悦', path: '/one/chapter3/9' },
+              { title: '把释迦牟尼的“六波罗蜜”铭记在心', path: '/one/chapter3/10' },
+              { title: '劳动的意义和勤勉的自豪感', path: '/one/chapter3/11' },
+            ]
+          },
         ]
       },
       // {
