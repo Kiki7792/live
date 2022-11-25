@@ -77,21 +77,24 @@ module.exports = {
               { title: '劳动的意义和勤勉的自豪感', path: '/one/chapter3/11' },
             ]
           },
+          { title: '第四章 以利他之心生活',
+            path: '/one/chapter4',
+            children: [
+              { title: "日本托钵化缘遇温暖", path: '/one/chapter4/1' },
+              { title: '天堂和地狱的区别在于“善心”', path: '/one/chapter4/2' },
+              { title: '贯彻利他思想，视野也将开阔', path: '/one/chapter4/3' },
+              { title: '入睡前扪心自问参与新事业的动机', path: '/one/chapter4/4' },
+              { title: '为社会和他人不妨牺牲一点个人利益', path: '/one/chapter4/5' },
+              { title: '经营利润取之社会，用于社会', path: '/one/chapter4/6' },
+              { title: '日本啊，把“富国有德”定为国策吧', path: '/one/chapter4/7' },
+              { title: '这样的“美德”是否被遗忘', path: '/one/chapter4/8' },
+              { title: '以道德为基础的人格教育刻不容缓', path: '/one/chapter4/9' },
+              { title: '构筑新日本，勿让历史重演', path: '/one/chapter4/10' },
+              { title: '共存生物链中，人类应学会知足', path: '/one/chapter4/11' },
+            ]
+          },
         ]
       },
-      // {
-      //   title: '下篇 芒格私人书单',
-      //   path: '/zh/down',
-      //   children: [
-      //     { title: '如果', path: '/zh/down/if' },
-      //     { title: '第一辑 自然', path: '/zh/down/chapter-1' },
-      //     { title: '第二辑 人类', path: '/zh/down/chapter-2' },
-      //     { title: '第三辑 经济', path: '/zh/down/chapter-3' },
-      //     { title: '第四辑 投资', path: '/zh/down/chapter-4' },
-      //     { title: '第五辑 人生', path: '/zh/down/chapter-5' },
-      //     { title: '第六辑 处世', path: '/zh/down/chapter-6' },
-      //   ]
-      // }
     ]
   },
   configureWebpack: {
