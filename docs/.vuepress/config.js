@@ -93,6 +93,23 @@ module.exports = {
               { title: '共存生物链中，人类应学会知足', path: '/one/chapter4/11' },
             ]
           },
+          { title: '第五章 与宇宙相和谐',
+            path: '/one/chapter5',
+            children: [
+              { title: "左右人生的两股力量", path: '/one/chapter5/1' },
+              { title: '命运掌握在自己手中', path: '/one/chapter5/2' },
+              { title: '稍安勿躁，因果一定有报', path: '/one/chapter5/3' },
+              { title: '促进万事万物成长的宇宙运行规律', path: '/one/chapter5/4' },
+              { title: '伟大力量为世间万物注入生命', path: '/one/chapter5/5' },
+              { title: '我为什么决意皈依佛门', path: '/one/chapter5/6' },
+              { title: '无需完美，贵在坚持', path: '/one/chapter5/7' },
+              { title: '新村美好的心理内核', path: '/one/chapter5/8' },
+              { title: '新村美好的心理内核', path: '/one/chapter5/9' },
+              { title: '砥砺理智与良知在先，追求大彻大悟于后', path: '/one/chapter5/10' },
+              { title: '每个渺小事物都有其存在价值', path: '/one/chapter5/11' },
+              { title: '美好的未来孕育于正确的“活法”中', path: '/one/chapter5/12' },
+            ]
+          },
         ]
       },
     ]
