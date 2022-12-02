@@ -112,6 +112,25 @@ module.exports = {
           },
         ]
       },
+      {
+        title: '超级【企业人】的活法',
+        path: '/two',
+        children: [
+          { title: '第一章 成功的配方', path: '/two/chapter1' },
+          { title: '第二章 论能力', path: '/two/chapter2' },
+          { title: '第三章 论努力', path: '/two/chapter3' },
+          { title: '第四章 论态度', path: '/two/chapter4' },
+          { title: '第五章 企业成功之路', path: '/two/chapter5' },
+          { title: '第六章 论利调', path: '/two/chapter6' },
+          { title: '第七章 论野心', path: '/two/chapter7' },
+          { title: '第八章 论真诚', path: '/two/chapter8' },
+          { title: '第九章 论力量', path: '/two/chapter9' },
+          { title: '第十章 论创新', path: '/two/chapter10' },
+          { title: '第十一章 论乐观', path: '/two/chapter11' },
+          { title: '第十二章 决不放弃', path: '/two/chapter12' },
+          { title: '后语', path: '/two/last' },
+        ]
+      },
     ]
   },
   configureWebpack: {
